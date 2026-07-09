@@ -2,3 +2,4 @@ joblib
 fastapi
 uvicorn
 scikit-learn
+sqlalchemy
